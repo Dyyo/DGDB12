@@ -1,0 +1,11 @@
+{
+  "name": "DeluxeBot",
+  "version": "1.0.0",
+  "description": "Deluxe Gambling Bot",
+  "main": "bot.js",
+  "author": "Nolan",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
